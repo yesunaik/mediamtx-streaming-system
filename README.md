@@ -46,6 +46,18 @@ Supports real-time video streaming with minimal delay and high reliability.
 
 ---
 
+## ▶️ How to Run
+
+1. Install MediaMTX
+2. Use the provided configuration file
+3. Run:
+   ./mediamtx mediamtx_config.yml
+
+4. Access RTSP stream:
+   rtsp://localhost:8554/camera1
+
+---
+
 ## 👨‍💻 Author
 **Yesu Naik**  
 Software Engineer | Python | IoT | Embedded Systems
